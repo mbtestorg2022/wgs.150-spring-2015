@@ -28,15 +28,84 @@ There are no prerequisites for this course.
 Class Deliverables and Grade Composition
 ----------------------------------------
 
-| ACTIVITIES | # OF POINTS |
-| --- | --- |
-| Class participation | 20 |
-| Presentation of the status of women in a selected industry & 1-page summary of presentation | 15 |
-| 2–5 slides in preparation for class debate on Affirmative Action | 15 |
-| 5 page book reflection on _Blindspot_ | 10 |
-| 5 page book reflection on _Lean In_ | 10 |
-| Final 8–10 page paper exploring a strategy for change | 15 |
-| In-class presentation of final paper | 15 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+# OF POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation of the status of women in a selected industry & 1-page summary of presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–5 slides in preparation for class debate on Affirmative Action
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 page book reflection on _Blindspot_
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 page book reflection on _Lean In_
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final 8–10 page paper exploring a strategy for change
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class presentation of final paper
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 See [Assignments section]({{< baseurl >}}/pages/assignments)
 
